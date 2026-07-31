@@ -6,8 +6,8 @@
 %global crate lipsum
 
 Name:           rust-%{crate}
-Version:        0.6.0
-Release:        3%{?dist}
+Version:        0.9.1
+Release:        1%{?dist}
 Summary:        Lorem ipsum text generation library
 
 License:        MIT
